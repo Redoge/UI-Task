@@ -1,0 +1,1 @@
+https://github.com/mjc-school/MJC-School/blob/old/stage%20%233/java/module%20%237.%20UI/typescript/typescript_task.md
